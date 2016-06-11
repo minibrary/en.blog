@@ -80,4 +80,6 @@ pre {
 	position: relative;
 }
 
-.content, .post { margin-top: 64px; }
+.header-site .content, .header-post .content { top: 35%; }
+
+.content, .post { margin-top: 63px; }
